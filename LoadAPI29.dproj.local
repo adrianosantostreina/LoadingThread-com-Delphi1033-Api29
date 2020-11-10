@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/11/13 13:52:31.000.326,=C:\Users\dsk-modelo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/06/10 15:24:51.000.390,=C:\Users\dsk-modelo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/26 10:00:54.000.666,=C:\Users\dsk-modelo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/02 17:53:40.000.978,=C:\Users\dsk-modelo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/03 09:46:34.000.424,=C:\Users\dsk-modelo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/03 20:05:54.000.073,=C:\Users\dsk-modelo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/10 14:59:27.209,=C:\Users\dsk-modelo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/10 15:01:13.138,C:\Temp\Loading\Unit1.fmx=C:\Users\dsk-modelo\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2020/11/10 15:01:13.138,C:\Temp\Loading\Unit1.pas=C:\Users\dsk-modelo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/10 15:01:26.498,C:\Temp\Loading\LoadAPI29.dproj=C:\Users\dsk-modelo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/11/10 15:02:50.248,=C:\Temp\Loading\Loading.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android64="0052493155"/>
+	</ActiveMobileDevice>
+</BorlandProject>
